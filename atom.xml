@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>白宽衣黑披风</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-04-17T15:11:48.034Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>扬州慢 姜夔</title>
+    <link href="http://yoursite.com/2019/04/17/%5B%E6%89%AC%E5%B7%9E%E6%85%A2%20%E5%A7%9C%E5%A4%94%5D/"/>
+    <id>http://yoursite.com/2019/04/17/[扬州慢 姜夔]/</id>
+    <published>2019-04-17T15:11:01.000Z</published>
+    <updated>2019-04-17T15:11:48.034Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;淳熙丙申至日，予过维扬。夜雪初霁，荠麦弥望。入其城，则四顾萧条，寒水自碧，暮色渐起，戍角悲吟。予怀怆然，感慨今昔，因自度此曲。千岩老人以为有“黍离”之悲也。   
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>告别和相遇</title>
+    <link href="http://yoursite.com/2018/12/31/%E5%91%8A%E5%88%AB%E5%92%8C%E7%9B%B8%E9%81%87/"/>
+    <id>http://yoursite.com/2018/12/31/告别和相遇/</id>
+    <published>2018-12-31T14:08:01.000Z</published>
+    <updated>2019-04-17T14:48:06.750Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;你好呀！&lt;/p&gt;
+&lt;p&gt;再见啦！&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
